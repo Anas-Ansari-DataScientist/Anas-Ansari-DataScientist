@@ -15,8 +15,6 @@ I worked at large-scale companies, so I enjoy getting my hands dirty and solving
 - 🔗 LinkedIn : (https://www.linkedin.com/in/mohd-anas-ansari/)
 - 📧 Email : anas05.md@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-ansari-datascientist&show_icons=true&locale=en&layout=compact" alt="anas-ansari-datascientist" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-ansari-datascientist&label=Profile%20views&color=0e75b6&style=flat" alt="anas-ansari-datascientist" /> </p>
 
 - 🌱 I’m currently learning **Time Series Forecasting**
